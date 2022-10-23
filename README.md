@@ -1,12 +1,17 @@
-## Bem-vindo(a) ao meu perfil! 😁
+<h1 align="center">Welcome to my profile! 😁</h1>
 
+- 🌱 I’m currently learning HTML, CSS and JS
+
+<br>
  <div>
    <a href="https://github.com/im4k1r4">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=im4k1r4&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=im4k1r4&layout=compact&langs_count=6&theme=tokyonight"/>
-
 </div>
+
+
 <div style="display: inline_block"><br>
+  <h3 align="left">Languages and Tools:</h3>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -14,7 +19,7 @@
  
  <br>
  
-  ## Minhas redes:
+ <h3 align="left">My contacts:</h3>
  
 <div> 
   
