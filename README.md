@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to my profile! 😁</h1>
 
-- 🌱 I’m currently learning HTML, CSS and JS
+- 🌱 I’m currently learning JS
 
 <br>
  <div>
