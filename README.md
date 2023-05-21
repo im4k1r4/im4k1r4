@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to my profile! 😁</h1>
 
-- 🌱 Currently learning React;
+- 🌱 Currently learning ReactJS;
 - 📫: imthiagomartins@live.com
 
 <br>
