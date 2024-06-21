@@ -1,8 +1,10 @@
 <h1 align="center">Welcome to my profile! 😁</h1>
 
+###  
 ###
 
 <h3 align="center">🌱 Currently learning Angular</h3>
+
 
 ###
 
@@ -39,6 +41,7 @@
 </div>
 
 ###
+
 
 <h2 align="left">🌐 Connect with me</h2>
 
